@@ -17,7 +17,7 @@ def main():
             except ValueError:
                 print("無効な入力です。数字を入力してください。")
 
-    # 平均を計算aaaccc
+    # 平均を計算aaacccdddd
     average = calculate_average(numbers)
 
     # 結果を表示
